@@ -1,6 +1,6 @@
 # Custom-DSDT
 
-![alt text] (http://ihackline.com/wp-content/uploads/2019/06/Снимок-экрана-2019-06-19-в-23.53.48.png)
+![Image alt] (http://ihackline.com/wp-content/uploads/2019/06/Снимок-экрана-2019-06-19-в-23.53.48.png)
 
 ### Custom DSDT for various motherboards
 
