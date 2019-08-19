@@ -1,6 +1,6 @@
 # Custom-DSDT
 
-![Image alt] (https://github.com/relaxalex83/Custom-DSDT/raw/master/DSDT.png)
+(https://github.com/relaxalex83/Custom-DSDT/raw/master/DSDT.png)
 
 ### Custom DSDT for various motherboards
 
