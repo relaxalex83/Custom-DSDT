@@ -1,9 +1,7 @@
 # Custom-DSDT
-
 ![](https://github.com/relaxalex83/Custom-DSDT/raw/master/DSDT.png)
-
+### More information in our site [link](https://yadi.sk/i/0R2Oo2GGnF53UA)
 ### Custom DSDT for various motherboards
-
 #### LGA 775
 
 | Model Name              | Tutorial                                                     |
