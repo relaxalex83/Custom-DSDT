@@ -31,3 +31,17 @@
 | GA-P55-UD3L.dsl | [link](https://yadi.sk/i/dT3kb9S7jyZZzg) |
 | GA-P55-USB3.dsl | [link](https://yadi.sk/i/bAe0LWmiaA2WRw) |
 | MSI H55-G43.dsl | [link](https://yadi.sk/i/3g2iuAi73ga51w) |
+
+#### LGA 1366
+
+| Model Name              | Tutorial                                                     |
+| ----------------------- | ------------------------------------------------------------ |
+| Asus P6T.dsl | [link](https://yadi.sk/i/QitiL7b7yT4W6A) |
+| Asus Rampage III Extreme.dsl | [link](https://yadi.sk/i/aw6ZAp9vWEDJhw) |
+| GA-EX58-UD3R.dsl | [link](https://yadi.sk/i/LqR1TyE5hdGtGw) |
+| GA-X58A-UD3R.dsl | [link](https://yadi.sk/i/NOlqEaw_k7q6VA) |
+| GA-X58A-UD5.dsl | [link](https://yadi.sk/i/GNEsbfl9Vnj17A) |
+| GA-X58A-UD7.dsl | [link](https://yadi.sk/i/b_ca6SVzz9OUSA) |
+| Intel Outagamie DX58OG.dsl | [link](https://yadi.sk/i/WKifBXlzg-jTzg) |
+| Intel S5520SC.dsl | [link](https://yadi.sk/i/ZbFzPxQvQbCOHA) |
+| MSI X58 Platinum.dsl | [link](https://yadi.sk/i/5OMPBraLve3KeQ) |
