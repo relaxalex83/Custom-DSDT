@@ -21,3 +21,13 @@
 | MSI P45 Neo3.dsl | [link](https://yadi.sk/i/fwZW_EV_PBDr_g) |
 | MSI P45 Platinum.dsl | [link](https://yadi.sk/i/dBpI8Ybg4klwIg) |
 
+#### LGA 1156
+
+| Model Name              | Tutorial                                                     |
+| ----------------------- | ------------------------------------------------------------ |
+| Asus P7H55-M PRO.dsl | [link](https://yadi.sk/i/V2Bp19YKXYIgmA) |
+| Biostar TPower I55.dsl | [link](https://yadi.sk/i/d30wmWvreFmMug) |
+| GA-H55M-UD2H.dsl | [link](https://yadi.sk/i/7T2jTscA6gJC5A) |
+| GA-P55-UD3L.dsl | [link](https://yadi.sk/i/dT3kb9S7jyZZzg) |
+| GA-P55-USB3.dsl | [link](https://yadi.sk/i/bAe0LWmiaA2WRw) |
+| MSI H55-G43.dsl | [link](https://yadi.sk/i/3g2iuAi73ga51w) |
