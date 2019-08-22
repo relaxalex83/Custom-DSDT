@@ -4,7 +4,7 @@
 ### Custom DSDT for various motherboards
 #### LGA 775
 
-| Model Name              | Tutorial                                                     |
+| Model Name              | Download                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | ASRock G41C-GS.dsl | [link](https://yadi.sk/i/sVaaW3fyyqadNQ) |
 | Asus P5B-MX/WiFi-AP.dsl | [link](https://yadi.sk/i/FYx0iVs9hLstfw) |
@@ -23,7 +23,7 @@
 
 #### LGA 1156
 
-| Model Name              | Tutorial                                                     |
+| Model Name              | Download                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | Asus P7H55-M PRO.dsl | [link](https://yadi.sk/i/V2Bp19YKXYIgmA) |
 | Biostar TPower I55.dsl | [link](https://yadi.sk/i/d30wmWvreFmMug) |
@@ -34,7 +34,7 @@
 
 #### LGA 1366
 
-| Model Name              | Tutorial                                                     |
+| Model Name              | Download                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | Asus P6T.dsl | [link](https://yadi.sk/i/QitiL7b7yT4W6A) |
 | Asus Rampage III Extreme.dsl | [link](https://yadi.sk/i/aw6ZAp9vWEDJhw) |
@@ -48,7 +48,7 @@
 
 #### LGA 1155
 
-| Model Name              | Tutorial                                                     |
+| Model Name              | Download                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | ASRock H67DE3.dsl | [link]() |
 | Asus H61M-E.dsl | [link]() |
@@ -108,7 +108,7 @@
 
 #### LGA 1150
 
-| Model Name              | Tutorial                                                     |
+| Model Name              | Download                                                     |
 | ----------------------- | ------------------------------------------------------------ |
 | Asus B85M-E.dsl | [link]() |
 | Asus B85M-G.dsl | [link]() |
