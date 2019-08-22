@@ -44,7 +44,7 @@
 | GA-X58A-UD7.dsl | [link](https://yadi.sk/i/b_ca6SVzz9OUSA) |
 | Intel Outagamie DX58OG.dsl | [link](https://yadi.sk/i/WKifBXlzg-jTzg) |
 | Intel S5520SC.dsl | [link](https://yadi.sk/i/ZbFzPxQvQbCOHA) |
-| MSI X58 Platinum.dsl | [link](https://yadi.sk/i/5OMPBraLve3KeQ) K
+| MSI X58 Platinum.dsl | [link](https://yadi.sk/i/5OMPBraLve3KeQ) |
 
 #### LGA 1155
 
